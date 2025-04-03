@@ -11,11 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
-utils/Fruits.jsx
-Dockerfile
-.dockerignore
-
-
+/Dockerfile
+/.dockerignore
+/utils/Fruits.jsx
 
 # Editor directories and files
 .vscode/*
